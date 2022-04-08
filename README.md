@@ -27,7 +27,7 @@ Após uma investigação do cenário atual sobre o consumo de conteúdo sobre pl
 
 ### Você pode acessar o repositório da API <a href="https://github.com/olirodrigues/api-projeto-chefao-xp40">clicando aqui!</a>
 
-### Você pode acessar o prototipo do Figma <a href="https://www.figma.com/file/cM2C7bF174277en96u15jG/Desafio-Chefao---Plantas?node-id=2%3A2">clicando aqui!</a>
+### Você pode acessar o protótipo do Figma <a href="https://www.figma.com/file/cM2C7bF174277en96u15jG/Desafio-Chefao---Plantas?node-id=2%3A2">clicando aqui!</a>
 
 ## 👩‍💻 Tecnologias
 
@@ -49,7 +49,7 @@ A aplicação foi desenvolvida no formato PWA, operando nas seguintes dimensões
 
 ## 🚀 Instalação e Execução
 
-Você pode executar o projeto localmente através dos seguintes passo:
+Você pode executar o projeto localmente através dos seguintes passos:
 
 ### 1 - Clone o repositório com o seguinte código:
 
