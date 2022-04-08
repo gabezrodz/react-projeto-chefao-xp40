@@ -6,7 +6,7 @@
         <a href="#-projeto"> 💻 Projeto</a>
         <a href="#-tecnologias"> 👩‍💻 Tecnologias</a>
         <a href="#-dispositivos"> 📱 Dispositivos</a>
-        <a href="#-instalaçãoo-e-execução"> 🚀 Instalação e Execução </a>
+        <a href="#-instalação-e-execução"> 🚀 Instalação e Execução </a>
         <a href="#-seções"> 📌 Seções</a>
         <a href="#-desenvolvedores"> 🤝 Desenvolvedores</a>
     </div>
